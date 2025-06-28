@@ -1,0 +1,96 @@
+{
+  "location": "Ocean City, NJ",
+  "forecast_period": "June 28 – July 5, 2025",
+  "daily_forecast": [
+    {
+      "date": "2025-06-28",
+      "day": "Sat",
+      "surf_ft": "3–4 (E swell)",
+      "swell": [
+        {"direction": "E", "height_ft": 4, "period_s": 7},
+        {"direction": "SE", "height_ft": 1, "period_s": 9}
+      ],
+      "wind": {"direction": "S", "speed_kt": "10–15"},
+      "sky_weather": "Partly cloudy → sun",
+      "high_low_F": {"high": 86, "low": 73},
+      "precip_chance": "30% (PM tstms)"
+    },
+    {
+      "date": "2025-06-29",
+      "day": "Sun",
+      "surf_ft": "~3 (SE swell)",
+      "swell": [
+        {"direction": "SE", "height_ft": 2, "period_s": 6},
+        {"direction": "SE", "height_ft": 2, "period_s": 9}
+      ],
+      "wind": {"direction": "W → SW", "speed_kt": "5–10"},
+      "sky_weather": "Sunny",
+      "high_low_F": {"high": 89, "low": 72},
+      "precip_chance": "20%"
+    },
+    {
+      "date": "2025-06-30",
+      "day": "Mon",
+      "surf_ft": "~2 (small)",
+      "swell": [
+        {"direction": "S", "height_ft": 2, "period_s": 5},
+        {"direction": "E", "height_ft": 2, "period_s": 8}
+      ],
+      "wind": {"direction": "E → S", "speed_kt": "5–10"},
+      "sky_weather": "Partly sunny",
+      "high_low_F": {"high": 86, "low": 74},
+      "precip_chance": "30% (PM tstms)"
+    },
+    {
+      "date": "2025-07-01",
+      "day": "Tue",
+      "surf_ft": "2–3 (swell fading)",
+      "swell": null,
+      "wind": {"direction": "SW", "speed_kt": "15–20"},
+      "sky_weather": "Partly sunny; pop-up storms PM",
+      "high_low_F": {"high": 87, "low": 72},
+      "precip_chance": "50%"
+    },
+    {
+      "date": "2025-07-02",
+      "day": "Wed",
+      "surf_ft": "2 (residual)",
+      "swell": null,
+      "wind": {"direction": "W", "speed_kt": "5–10"},
+      "sky_weather": "Mostly sunny",
+      "high_low_F": {"high": 88, "low": 71},
+      "precip_chance": "0%"
+    },
+    {
+      "date": "2025-07-03",
+      "day": "Thu",
+      "surf_ft": "1–2",
+      "swell": null,
+      "wind": {"direction": "SW", "speed_kt": "5–10"},
+      "sky_weather": "Sunny",
+      "high_low_F": {"high": 88, "low": 72},
+      "precip_chance": "0%"
+    },
+    {
+      "date": "2025-07-04",
+      "day": "Fri",
+      "surf_ft": "2–3",
+      "swell": null,
+      "wind": {"direction": "SW", "speed_kt": "5–10"},
+      "sky_weather": "Partly sunny, AM→PM; showers/storms likely after 8 PM",
+      "high_low_F": {"high": 80, "low": 71},
+      "precip_chance": "40%"
+    },
+    {
+      "date": "2025-07-05",
+      "day": "Sat",
+      "surf_ft": "1–2",
+      "swell": null,
+      "wind": {"direction": "SE", "speed_kt": "5–10"},
+      "sky_weather": "Sunny; slight shower risk",
+      "high_low_F": {"high": 81, "low": 72},
+      "precip_chance": "30%"
+    }
+  ]
+}
+
